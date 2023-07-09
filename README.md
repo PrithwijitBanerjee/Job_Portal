@@ -14,6 +14,12 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
+If You want to start react project and json server simultaneously then use the custom commands :
+
+### `npm run dev` custom command for running react with 3000 port and json server with 3002 port concurrently
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
+
 ### `npm test`
 
 Launches the test runner in the interactive watch mode.\
@@ -68,3 +74,17 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+### Project Description:
+A vitual job portal, which has been designed to access role based user authentication for various kind of activities of this platform. A Job Seeker, who can only view and search his/her dream job and apply for the desired job. A Employer, who has different credentials rather than Job Seeker, can only Post the new Job Referrals through this platform. An Admin Dashboard was designed differently which can be accessed by only the admin user's credentials. An Admin has all access to manage job as well as job seekers and employers also.
+
+#### Admin's  Credentials for signin:
+ email id:  admin@admin.com
+ password:  admin123
+
+
+### Employer's  Credentials for signin:
+email id: employer@gmail.com
+password: 123456
+

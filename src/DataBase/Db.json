@@ -1,0 +1,283 @@
+{
+  "job_post": [
+    {
+      "id": 1,
+      "jobTitle": "Jopitar looking for a senior UX Designer",
+      "jobIcon": "imags/job-post-icone-1.png",
+      "companyName": "Jopitar ltd. inc.",
+      "location": "11907 Doyle Cape Cydneyview",
+      "jobNature": "Full Time",
+      "jobDeadline": "Deadline: May 23, 2018",
+      "jobCategory": "Senior UX Designer"
+    },
+    {
+      "id": 2,
+      "jobTitle": "Rokital needs Marketing Experts",
+      "jobIcon": "imags/job-post-icone-2.png",
+      "companyName": "Rokitar ltd.",
+      "location": "11907 Doyle Cape Cydneyview",
+      "jobNature": "Full Time",
+      "jobDeadline": "Deadline: May 23, 2018",
+      "jobCategory": "Marketing Experts"
+    },
+    {
+      "id": 3,
+      "jobTitle": "Mshape looking for a senior UX Designer",
+      "jobIcon": "imags/job-post-icone-3.png",
+      "companyName": "Mshape inc.",
+      "location": "11907 Doyle Cape Cydneyview",
+      "jobNature": "Full Time",
+      "jobDeadline": "Deadline: May 23, 2018",
+      "jobCategory": "Senior UX Designer"
+    },
+    {
+      "id": 4,
+      "jobTitle": "Rokital needs Marketing Experts",
+      "jobIcon": "imags/job-post-icone-2.png",
+      "companyName": "Rokitar pvt.ltd",
+      "location": "11907 Doyle Cape Cydneyview",
+      "jobNature": "Full Time",
+      "jobDeadline": "Deadline: May 23, 2018",
+      "jobCategory": "Marketing Experts"
+    },
+    {
+      "id": 5,
+      "jobTitle": "Exavalue needs Web Developer",
+      "jobIcon": "imags/job-post-icone-1.png",
+      "companyName": "Exavalue pvt.ltd",
+      "location": "11907 Doyle Cape Cydneyview",
+      "jobNature": "Full Time",
+      "jobDeadline": "Deadline: May 23, 2018",
+      "jobCategory": "Web Developer"
+    },
+    {
+      "id": 6,
+      "jobTitle": "Desun Technology needs FullStack Developer",
+      "jobIcon": "imags/job-post-icone-2.png",
+      "companyName": "Desun Technology pvt.ltd",
+      "location": "11907 Doyle Cape Cydneyview",
+      "jobNature": "Full Time",
+      "jobDeadline": "Deadline: May 23, 2018",
+      "jobCategory": "FullStack Developer"
+    },
+    {
+      "id": 7,
+      "jobTitle": "Webskitters needs Django Developer",
+      "jobIcon": "imags/job-post-icone-1.png",
+      "companyName": "Webskitters Technology pvt.ltd",
+      "location": "11907 Doyle Cape Cydneyview",
+      "jobNature": "Full Time",
+      "jobDeadline": "Deadline: May 23, 2018",
+      "jobCategory": "Django Developer"
+    },
+    {
+      "id": 8,
+      "jobTitle": "Sigilech needs Flutter Developer",
+      "jobIcon": "imags/job-post-icone-3.png",
+      "companyName": "Sigilech Technology pvt.ltd",
+      "location": "11907 Doyle Cape Cydneyview",
+      "jobNature": "Full Time",
+      "jobDeadline": "Deadline: May 23, 2018",
+      "jobCategory": "Flutter Developer"
+    },
+    {
+      "id": 9,
+      "jobTitle": "CodeClouds needs Devops Engineer",
+      "jobIcon": "imags/job-post-icone-2.png",
+      "companyName": "CodeClouds Technology pvt.ltd",
+      "location": "11907 Doyle Cape Cydneyview",
+      "jobNature": "Full Time",
+      "jobDeadline": "Deadline: May 23, 2018",
+      "jobCategory": "Devops Engineer"
+    },
+    {
+      "id": 10,
+      "jobTitle": "Pitangent needs Backend Developer",
+      "jobIcon": "imags/job-post-icone-1.png",
+      "companyName": "Pitangent Technology pvt.ltd",
+      "location": "11907 Doyle Cape Cydneyview",
+      "jobNature": "Full Time",
+      "jobDeadline": "Deadline: May 23, 2018",
+      "jobCategory": "Backend Developer"
+    },
+    {
+      "id": 11,
+      "jobTitle": "CloudKaptain needs Spring Boot Developer",
+      "jobIcon": "imags/job-post-icone-2.png",
+      "companyName": "CloudKaptain Technology pvt.ltd",
+      "location": "11907 Doyle Cape Cydneyview",
+      "jobNature": "Full Time",
+      "jobDeadline": "Deadline: May 23, 2018",
+      "jobCategory": "Spring Boot Developer"
+    },
+    {
+      "id": 12,
+      "jobTitle": "Maventic needs Spring Boot Developer",
+      "jobIcon": "images/job-post-icone-3.png",
+      "companyName": "Maventic Technology pvt.ltd",
+      "location": "11907 Doyle Cape Cydneyview",
+      "jobNature": "Full Time",
+      "jobDeadline": "Deadline: May 23, 2018",
+      "jobCategory": "Spring Boot Developer"
+    },
+    {
+      "id": 13,
+      "jobTitle": "Maventic needs Backend Developer",
+      "jobIcon": "imags/job-post-icone-1.png",
+      "companyName": "Maventic Technology pvt.ltd",
+      "location": "11907 Doyle Cape Cydneyview",
+      "jobNature": "Full Time",
+      "jobDeadline": "Deadline: May 23, 2018",
+      "jobCategory": "Backend Developer"
+    },
+    {
+      "id": 14,
+      "jobTitle": "Maventic needs Frontend Developer",
+      "jobIcon": "imags/job-post-icone-2.png",
+      "companyName": "Maventic Technology pvt.ltd",
+      "location": "11907 Doyle Cape Cydneyview",
+      "jobNature": "Full Time",
+      "jobDeadline": "Deadline: May 23, 2018",
+      "jobCategory": "Frontend Developer"
+    },
+    {
+      "id": 15,
+      "jobTitle": "Maventic needs React Js Developer",
+      "jobIcon": "imags/job-post-icone-3.png",
+      "companyName": "Maventic Technology pvt.ltd",
+      "location": "11907 Doyle Cape Cydneyview",
+      "jobNature": "Full Time",
+      "jobDeadline": "Deadline: May 23, 2018",
+      "jobCategory": "React Js Developer"
+    },
+    {
+      "id": 16,
+      "jobTitle": "Tipi Digital needs Frontend Developer",
+      "jobIcon": "imags/job-post-icone-1.png",
+      "companyName": "Tipi Digital Technology pvt.ltd",
+      "location": "11907 Doyle Cape Cydneyview",
+      "jobNature": "Full Time",
+      "jobDeadline": "Deadline: May 23, 2018",
+      "jobCategory": "Frontend Developer"
+    },
+    {
+      "id": 17,
+      "jobTitle": "Tipi Digital needs Frontend Developer",
+      "jobIcon": "imags/job-post-icone-1.png",
+      "companyName": "Tipi Digital Technology pvt.ltd",
+      "location": "11907 Doyle Cape Cydneyview",
+      "jobNature": "Full Time",
+      "jobDeadline": "Deadline: May 23, 2018",
+      "jobCategory": "Frontend Developer"
+    },
+    {
+      "jobTitle": "Webskitters Technology Looking For Senior MERN Stack Developer",
+      "companyName": "Webskitters Technology",
+      "logo": "ambulance.png",
+      "location": "SaltLake, Sector 5, Kolkata, WB",
+      "document": "150620221800admitcard_second sem mca.pdf",
+      "shortDesc": "HHHHHH",
+      "longDesc": "Lorem Ipsum",
+      "jobNature": "Part Time",
+      "salaryRange": "3,000 - 5,000",
+      "id": 18
+    }
+  ],
+  "job-nature": [
+    {
+      "id": 1,
+      "jobNature": "Full Time"
+    },
+    {
+      "id": 2,
+      "jobNature": "Part Time"
+    },
+    {
+      "id": 3,
+      "jobNature": "Freelance"
+    }
+  ],
+  "job-applicants": [
+    {
+      "name": "Prithwijit Banerjee",
+      "email": "prithwijit98@gmail.com",
+      "address": "Kolkata",
+      "mobile": "9836716501",
+      "secondary": "71",
+      "hs": "61",
+      "highestQuality": "Graduation",
+      "experience": "Less than 1 year",
+      "jobLocation": "Kolkata",
+      "cv": "18871021007_Prithwijit_CV_Updated.pdf",
+      "image": "prithwijit_pic.jpg",
+      "id": 1
+    }
+  ],
+  "job-category": [
+    {
+      "id": 1,
+      "jobType": "Web Developer"
+    },
+    {
+      "id": 2,
+      "jobType": "User Experience Designer"
+    },
+    {
+      "id": 3,
+      "jobType": "Digital Marketer"
+    },
+    {
+      "id": 4,
+      "jobType": "Branding And Promotion"
+    },
+    {
+      "id": 5,
+      "jobType": "Full-Stack Engineer"
+    }
+  ],
+  "all_blog": [
+    {
+      "id": 1,
+      "image": "imags/blog1.jpg",
+      "title": "Page builder included",
+      "date": "27Mar, 2018",
+      "postText": "Fusce aliqm nonlips dictmst dapib alorem accman pellenl tesque in temor aliqmnpion dmst dapib honcs fusce aliqm non dictmst "
+    },
+    {
+      "id": 2,
+      "image": "imags/blog2.jpg",
+      "title": "Retina ready graphics",
+      "date": "27Mar, 2018",
+      "postText": "Fusce aliqm nonlips dictmst dapib alorem accman pellenl tesque in temor aliqmnpion dmst dapib honcs fusce aliqm non dictmst "
+    },
+    {
+      "id": 3,
+      "image": "imags/blog3.jpg",
+      "title": "Simple blog post",
+      "date": "27Mar, 2018",
+      "postText": "Fusce aliqm nonlips dictmst dapib alorem accman pellenl tesque in temor aliqmnpion dmst dapib honcs fusce aliqm non dictmst "
+    },
+    {
+      "id": 4,
+      "image": "imags/blog4.jpg",
+      "title": "Cookie cotton candy",
+      "date": "27Mar, 2018",
+      "postText": "Fusce aliqm nonlips dictmst dapib alorem accman pellenl tesque in temor aliqmnpion dmst dapib honcs fusce aliqm non dictmst "
+    },
+    {
+      "id": 5,
+      "image": "imags/blog5.jpg",
+      "title": "Mobile friendly",
+      "date": "27Mar, 2018",
+      "postText": "Fusce aliqm nonlips dictmst dapib alorem accman pellenl tesque in temor aliqmnpion dmst dapib honcs fusce aliqm non dictmst "
+    },
+    {
+      "id": 6,
+      "image": "imags/blog6.jpg",
+      "title": "User Friendly",
+      "date": "27Mar, 2018",
+      "postText": "Fusce aliqm nonlips dictmst dapib alorem accman pellenl tesque in temor aliqmnpion dmst dapib honcs fusce aliqm non dictmst "
+    }
+  ],
+  "users": []
+}
